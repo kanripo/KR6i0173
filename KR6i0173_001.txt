@@ -1,27 +1,26 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:50.827032
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:48
 #+TITLE: 佛說耶祇經
 #+PROPERTY: CBETA_ID T14n0542
 #+PROPERTY: ID KR6i0173
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 542
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0173_T_000-0829a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0173_T_001-0829a> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.542¶
-
- 佛說耶祇經¶
+No. 542¶
+佛說耶祇經¶
 ¶
 宋居士沮渠京聲譯¶
 
 聞如是：
 
 一時，佛在迦奈國。國中有婆羅門大¶
-富，姓名耶祇，本事九十六種外道，以求福祐。¶
+富姓，名耶祇，本事九十六種外道，以求福祐。¶
 聞人事佛，得富貴長壽安隱，度脫生死受福，¶
 不入三惡道中，不更勤苦。耶祇自念：「我不¶
 如捨置外道，當奉事佛。」因詣佛所，以頭面¶
@@ -38,7 +37,7 @@ No.542¶
 事非真故，歸命於佛，當哀愍我曹，去濁穢之¶
 行，受佛清淨決言，若審爾者大善。」耶祇便¶
 前受五戒：一、不殺生；二者、不盜；三者、不婬；¶
-四者、不兩舌惡口妄言綺語；五不、飲酒。三自¶
+四者、不兩舌惡口妄言綺語；五、不飲酒。三自¶
 歸已，起繞佛三匝，持齋七日而去。
 
 自是之¶
